@@ -1,5 +1,5 @@
 nav {
-    background-color: #333;
+    background-color: #4c2c46;
     padding: 10px;
 }
 
@@ -29,12 +29,52 @@ section{
     margin-bottom: 50px;
 }
 
+h1 {
+    font-family: "Comic-Sans", "Comic-Sans MS", "Chalkboard SE", "Comic Neue", cursive;
+    font-weight: bold;
+    color: rgb(229, 112, 237);
+}
+
 h2{
+    font-family: "Comic-Sans", "Comic-Sans MS", "Chalkboard SE", "Comic Neue", cursive;
+    color: rgb(229, 112, 237);
     text-align: center
 }
 h3{
+    font-family: "Comic-Sans", "Comic-Sans MS", "Chalkboard SE", "Comic Neue", cursive;
+    color: rgb(229, 112, 237);
     text-align: center
 }
 h4{
+    font-family: "Comic-Sans", "Comic-Sans MS", "Chalkboard SE", "Comic Neue", cursive;
+    color: rgb(229, 112, 237);
     text-align: center
+}
+
+p {
+    font-family: "Comic-Sans", "Comic-Sans MS", "Chalkboard SE", "Comic Neue", cursive;
+    color: ghostwhite;
+
+}
+
+main {
+    background-color: blueviolet;
+}
+
+div.card.shadow-sm {
+    background-color: black;
+    
+}
+
+header {
+    background-color: rgb(173, 233, 54);
+}
+
+footer {
+    background-color: darkmagenta !important;
+}
+
+body {
+    background-color: blueviolet;
+    font-family: "Comic-Sans", "Comic-Sans MS", "Chalkboard SE", "Comic Neue", cursive;
 }
